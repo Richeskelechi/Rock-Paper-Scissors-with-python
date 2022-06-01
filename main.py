@@ -44,7 +44,7 @@ def play_game():
         # Here I am printing a message that tells the user that the input is not valid so the game will start again because of the keep_running variable true
         return ("Invalid Input! Enter Only 'r' or 'p' or 's'")
 
-# Here I Have My Function To Check For A Winner = play_game()
+# Here I Have My Function To Check For A Winner in the play_game()
 
 
 def is_win(player, opponent):
